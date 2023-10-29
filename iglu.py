@@ -1,4 +1,4 @@
-libretto = 'libretto.txt'
+libretto = 'libretto6.txt'
 
 import copy
 from datetime import datetime
@@ -87,6 +87,18 @@ for row in file:
     except:
         pass
     try:
+        row[1] = row[1].strip() # Delete blanks in second column
+    except:
+        pass
+    try:
+        row[2] = row[2].strip() # Delete blanks in third column
+    except:
+        pass
+    try:
+        row[3] = row[3].strip() # Delete blanks in fourth column
+    except:
+        pass
+    try:
         row[4] = row[4].strip() # Delete blanks in last column
     except:
         pass
@@ -104,8 +116,6 @@ if exam_list[0] == [""]:
 if exam_list[0] == ["Dettaglio carriera"]:
     del exam_list[0]
 if exam_list[0] == ['Cod.', 'Attività formativa', 'Crediti', 'Esito', 'Data verb.']:
-    del exam_list[0]
-if exam_list[0] == ['Cod.', 'Attività formativa ', 'Crediti ', 'Esito ', 'Data verb.']:
     del exam_list[0]
 
 # Create copy for display
