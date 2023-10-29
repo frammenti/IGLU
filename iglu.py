@@ -1,4 +1,4 @@
-libretto = 'libretto.txt'
+libretto = 'libretto5.txt'
 
 import copy
 from datetime import datetime
@@ -50,10 +50,7 @@ def waverage(record_avg):
         if isinstance(obj.grade, int):
             n += obj.grade*obj.cfu
             d += obj.cfu
-    try:
-        return round(n/d, 2)
-    except ZeroDivisionError as err:
-        raise SystemExit(errormsg['zerodivision'])
+    return round(n/d, 2)
 
 # On \110 base
 def graduation(func):
@@ -405,6 +402,12 @@ grades = sorted([obj.grade for obj in record_avg if isinstance(obj.grade, int)])
 phrases = [obj.grade for obj in record if isinstance(obj.grade, str)]
 # Build tuples list for ranking
 rank = sorted([(obj.grade, obj.name) for obj in record_rank if isinstance(obj.grade, int)], key=lambda entry: entry[0], reverse=True)
+
+# Check if average is computable
+try:
+    waverage(record_avg)
+except ZeroDivisionError as err:
+    raise SystemExit(errormsg['zerodivision'])
 
 # SECOND INTERACTION
 # Looping menu
