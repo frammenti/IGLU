@@ -5,7 +5,7 @@ IGLU è mio figlio e ha una personalità orribile. Maneggiare con cura.
 
 L'Autrice declina ogni responsabilità per un'eventuale induzione al fine vita degli Utenti.
 ## Cosa fa
-IGLU aiuta gli studenti dell'Università di Bologna a sentirsi male con loro stessi effettuando una serie di indagini statistiche sul loro libretto universitario. Tra le mirabolanti imprese che può compiere figurano la media ponderata, la ricerca del voto mediano e della moda, il recupero dell'anno più proficuo in termini di crediti passati nonché degli esami migliori e peggiori per voto. Non da ultimo, IGLU non mancherà di giudicare ogni singola risposta data.
+IGLU aiuta gli studenti dell'Università di Bologna a sentirsi male con loro stessi effettuando una serie di indagini statistiche sul loro libretto universitario. Tra le mirabolanti imprese che può compiere figurano la media ponderata, la ricerca del voto mediano e della moda, il recupero dell'anno più proficuo in termini di crediti passati, nonché degli esami migliori e peggiori per voto. Non da ultimo, IGLU non mancherà di giudicare ogni singola risposta data.
 ## Istruzioni
 Nella *repository* è disponibile un libretto di prova. Per cambiare il libretto in analisi basta modificarne il nome nella prima riga del codice.
 
