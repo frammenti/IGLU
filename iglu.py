@@ -1,4 +1,4 @@
-libretto = 'libretto6.txt'
+libretto = 'libretto.txt'
 
 import copy
 from datetime import datetime
