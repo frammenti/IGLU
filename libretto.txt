@@ -1,0 +1,24 @@
+Dettaglio carriera
+Cod.	Attività formativa	 	Crediti	Esito	Data verb.
+Primo anno di corso
+11111	Idoneita' lingua inglese b - 1		6	Riconosciuto	
+11111	Scientology		12	30 con Lode	14/07/2017
+11111	Informatica per lumache (1)		6	28	18/05/2017
+11111	Laboratorio di aeroplanini (1)		6	Idoneità	28/07/2017
+11111	Letteratura delle mantidi		12	18	24/10/2017
+11111	Lingua lunga (1)		6	25	13/03/2018
+11111	Storia dei francobolli		12	30 con Lode	25/01/2017
+Secondo anno di corso
+11111	Letteratura polinese contemporanea		12	29	16/07/2018
+11111	Filologia della letteratura sanmarinese		12	30 con Lode	10/05/2018
+11111	Letteratura cattiva		12	24	17/04/2019
+11111	Storia dell'arte brutta		12	30 con Lode	29/01/2018
+11111	Storia della filosofia delle comari		12	18	15/06/2018
+Terzo anno di corso
+11111	Diocleziano		12	30 con Lode	24/01/2019
+11111	Letteratura e critica cingalese (1)		6	30	14/01/2020
+11111	Letteratura e filologia dubbiosa (1)		6	18	30/05/2019
+11111	Letteratura brutta		12	28	20/01/2020
+11111	Seminario (1)		6	Idoneità	17/06/2019
+11111	Prova finale		6		
+11111	Storia della noia		12	30 con Lode	21/12/2018
